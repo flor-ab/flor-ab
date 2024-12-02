@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Internal medicine physician learning about biostatistics.  
+
 <!--
 **flor-ab/flor-ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
